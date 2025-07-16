@@ -1,6 +1,5 @@
 <!-- 🔥 Fun Intro Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6e6e&center=true&width=1000&lines=👋+Hey+there!+I’m+Wayne+Githaiga+|+Full‑Stack+API+Enthusiast;Building+Smart+Systems+&+APIs;+One+Project+at+a+Time" alt="Typing SVG" />
-
 ---
 
 ## 🚀 Featured Projects
