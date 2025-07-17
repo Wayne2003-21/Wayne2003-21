@@ -11,7 +11,7 @@ A modular, scalable web platform with expressive REST & GraphQL APIs—complete 
 A Node.js + MySQL microservice handling task automation and scheduling with secure JWT authentication.
 
 ### [Full Applications with Payment integration](#)
-A conversational AI bot deployed with Flask, Docker, and cloud CI/CD pipelines.
+I can build apps that have payment gateaways and stk push.
 
 ---
 
