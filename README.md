@@ -1,5 +1,5 @@
 <!-- 🔥 Fun Intro Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6e6e&center=true&width=1000&lines=👋+Hey+there!+I’m+Wayne+Githaiga;+Full-Stack+Developer+%26+API+Enthusiast;+UI%2FUX+Designer+%7C+Graphic+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6e6e&center=true&width=1000&lines=👋+Hey+there!+I’m+Wayne+Jr;+Full-Stack+Developer+%26+API+Enthusiast;+UI%2FUX+Designer+%7C+Graphic+Designer" alt="Typing SVG" />
 
 ---
 
